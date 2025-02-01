@@ -1,1 +1,5 @@
-git
+csi-attacher:v4.8.0
+csi-snapshotter:v8.2.0
+csi-provisioner:v5.1.0
+csi-resizer:v1.13.1
+csi-node-driver-registrar:v2.13.0
